@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "dttm:block/super_dark_oak_sapling"
+    }
+}

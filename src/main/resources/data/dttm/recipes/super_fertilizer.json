@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "BLB",
+    " B "
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:bone_meal"
+    },
+    "L": {
+      "tag": "minecraft:leaves"
+    }
+  },
+  "result": {
+    "item": "dttm:super_fertilizer"
+  }
+}

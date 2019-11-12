@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+  	{
+  		"item":"dttm:rotten_wood"
+  	}
+  ],
+  "result": {
+    "item": "minecraft:stick",
+	"count": 2
+  }
+}

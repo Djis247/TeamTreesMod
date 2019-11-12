@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "dttm:block/super_birch_sapling"
+    }
+}

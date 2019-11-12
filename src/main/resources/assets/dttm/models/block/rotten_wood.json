@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "dttm:block/rotten_wood_top",
+        "side": "dttm:block/rotten_wood"
+    }
+}

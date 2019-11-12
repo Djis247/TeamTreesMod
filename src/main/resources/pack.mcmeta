@@ -1,0 +1,8 @@
+{
+    "pack": {
+    	"name": "Djis247's Team Trees Mod",
+        "description": "Djis247's Team Trees Mod is a mod where trees become more important in your world.",
+        "pack_format": 4,
+        "_comment": "A pack_format of 4 requires json lang files. Note: we require v4 pack meta for all mods."
+    }
+}

@@ -1,0 +1,23 @@
+{
+	"_comment":"Blocks",
+	"block.dttm.super_acacia_sapling":"\u00A7aSuper\u00A7r Acacia Sapling",
+	"block.dttm.super_birch_sapling":"\u00A7aSuper\u00A7r Birch Sapling",
+	"block.dttm.super_dark_oak_sapling":"\u00A7aSuper\u00A7r Dark Oak Sapling",
+	"block.dttm.super_jungle_sapling":"\u00A7aSuper\u00A7r Jungle Sapling",
+	"block.dttm.super_oak_sapling":"\u00A7aSuper\u00A7r Oak Sapling",
+	"block.dttm.super_spruce_sapling":"\u00A7aSuper\u00A7r Spruce Sapling",
+	"block.dttm.rotten_wood":"Rotten Wood",
+	"block.dttm.treated_acacia_log":"\u00A76Treated\u00A7r Acacia Log",
+	"block.dttm.treated_birch_log":"\u00A76Treated\u00A7r Birch Log",
+	"block.dttm.treated_dark_oak_log":"\u00A76Treated\u00A7r Dark Oak Log",
+	"block.dttm.treated_jungle_log":"\u00A76Treated\u00A7r Jungle Log",
+	"block.dttm.treated_oak_log":"\u00A76Treated\u00A7r Oak Log",
+	"block.dttm.treated_spruce_log":"\u00A76Treated\u00A7r Spruce Log",
+	
+	"_comment":"Items",
+	"item.dttm.super_fertilizer": "\u00A7aSuper\u00A7r Fertilizer",
+	"item.dttm.treated_wax":"\u00A76Treated\u00A7r Wax",
+	
+	"_comment":"Creative Tabs",
+	"itemGroup.teamtreesmain":"Team Trees"
+}

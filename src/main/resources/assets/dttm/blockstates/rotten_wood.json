@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=north": { "model": "dttm:block/rotten_wood" },
+        "facing=south": { "model": "dttm:block/rotten_wood", "y":180 },
+        "facing=west": { "model": "dttm:block/rotten_wood", "y":270 },
+        "facing=east": { "model": "dttm:block/rotten_wood", "y":90 },
+        "facing=up": { "model": "dttm:block/rotten_wood", "x":-90 },
+        "facing=down": { "model": "dttm:block/rotten_wood", "x":90 }
+    }
+}

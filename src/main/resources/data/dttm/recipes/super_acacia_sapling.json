@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+  	{
+  		"item":"minecraft:acacia_sapling"
+  	},
+  	{
+  		"item":"dttm:super_fertilizer"
+  	}
+  ],
+  "result": {
+    "item": "dttm:super_acacia_sapling"
+  }
+}
